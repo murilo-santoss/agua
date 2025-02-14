@@ -6,5 +6,6 @@ Murilo dos santos
 ## Download do APP
 Escaneie  o QRcode para ser direcionado ao site que hospeda o aplicativo. adicione a tela inicial e instale o APP seguindo as informações ao seu smartphone
 
-![](![image](https://github.com/user-attachments/assets/5d779630-51a0-4f37-b7d3-bf60b3758b90)
+![](https://github.com/user-attachments/assets/fb5d2b5d-e54f-4789-aa26-058907809e01)
+
 
